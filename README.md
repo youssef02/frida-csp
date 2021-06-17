@@ -31,3 +31,8 @@ manyways to hack the app, i gess the best approach is like the following:
 
 on login bypass the check and call function to create the user with fake data, disactivate the check function change somefunction from login or sqlite to add expiration to 2999, 
 
+Update #2 
+
+What do you think if isexpired returned false on every Call.
+
+Will try to compile as it take time to patch and assemble the APK. if this work, i am taking a huge vacation 
